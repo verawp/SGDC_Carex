@@ -1,2 +1,2 @@
-# SGDC_Carex
-Species genetic diversity correlation study of carex guyana SNP dataset
+# SGDC-Cg
+Species genetic diversity correlation study of Carex guyana SNP dataset
